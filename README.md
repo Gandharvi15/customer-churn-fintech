@@ -92,3 +92,4 @@ pip install pandas numpy faker scikit-learn xgboost matplotlib seaborn
 ---
 
 ## 📸 Dashboard Preview
+![Dashboard](outputs/powerbi_dashboard/Executive_Overview.png)
