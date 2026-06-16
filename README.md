@@ -92,4 +92,7 @@ pip install pandas numpy faker scikit-learn xgboost matplotlib seaborn
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](outputs/powerbi_dashboard/Executive_Overview.png)
+![Overview](outputs/powerbi_dashboard/Executive_Overview.png)
+![Cohort&Retention](outputs/powerbi_dashboard/Cohort&Retention.png)
+![customer_segment](outputs/powerbi_dashboard/RFM&Customer_Segments.png)
+![behavioral](outputs/powerbi_dashboard/Behavioral_Funnel&Drivers.png)
